@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Rami (he/him)
+
+I'm a Software Developer and Technical Program Manager based in Seattle, WA. I'm passionate about learning, growing, and sharing my knowledge and experience. If you'd like to get in touch, you can email me at [raisaac@icloud.com](https://www.example.com/).
+
+You can find my portfolio at [@rpub](https://www.github.com/rpub) on GitHub.
 
 <!--
 **ramiisaac/ramiisaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
